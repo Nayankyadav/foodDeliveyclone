@@ -640,7 +640,7 @@ img {
   margin-left: 0.5rem;
 }
 .recipes .products .card .button {
-  outline: none;
+  outline: red;
   border: none;
   padding: 1.2rem 1.7rem;
 }

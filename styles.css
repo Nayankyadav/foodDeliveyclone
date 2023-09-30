@@ -1,6 +1,5 @@
-/* ========== Google Fonts =========== */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap");
-/* ========== CSS Variables =========== */
+
 :root {
   --primary-color: #f94a3d;
   --yellow-color: #ffcf03;
@@ -71,7 +70,6 @@ img {
   height: auto;
 }
 
-/* ========== Custom Classes =========== */
 .container {
   max-width: 120rem;
   padding: 0 3rem;
@@ -88,7 +86,7 @@ img {
   align-items: center;
 }
 
-/* ========== Header =========== */
+
 .header {
   min-height: 100vh;
   background: linear-gradient(45deg, rgba(249, 74, 61, 0.1) 60%, rgba(255, 229, 7, 0.1));
@@ -245,7 +243,7 @@ img {
     width: 15rem;
   }
 }
-/* ========== Home =========== */
+
 .header .home {
   height: calc(100vh - 8.5rem);
 }
@@ -347,7 +345,7 @@ img {
     text-align: center;
   }
 }
-/* ========== SignIn Form =========== */
+
 .header .wrapper {
   position: fixed;
   top: 0;
@@ -441,7 +439,7 @@ img {
   cursor: pointer;
 }
 
-/* ========== Services =========== */
+
 .services {
   padding: 10rem 0 10rem;
 }
@@ -491,7 +489,7 @@ img {
     font-size: 3.5rem;
   }
 }
-/* ========== about =========== */
+
 .about {
   background-color: var(--grey-color-1);
   padding: 10rem 0 10rem;
@@ -563,7 +561,7 @@ img {
     gap: 3rem 0;
   }
 }
-/* ========== Recipes =========== */
+
 .recipes {
   padding: 10rem 0 10rem;
 }
@@ -667,7 +665,7 @@ img {
     margin-bottom: 2rem;
   }
 }
-/* ========== Testimonials =========== */
+
 .testimonials {
   padding: 10rem 0 10rem;
   background-color: var(--grey-color-1);
@@ -792,7 +790,7 @@ img {
     font-size: 2.5rem;
   }
 }
-/* ========== App =========== */
+
 .app {
   padding: 10rem 0 20rem;
 }
@@ -882,7 +880,7 @@ img {
     font-size: 2.5rem;
   }
 }
-/* ========== Footer =========== */
+
 .footer {
   background: linear-gradient(145deg, rgba(249, 74, 61, 0.1) 60%, rgba(255, 229, 7, 0.1));
   padding: 10rem 3rem 10rem;

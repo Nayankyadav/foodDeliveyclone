@@ -935,7 +935,7 @@ img {
   padding: 1.5rem 0;
 }
 .footer-bottom .row {
-  justify-content: space-between;
+  justify-content: center;
 }
 .footer-bottom .row p {
   color: var(--white-color);
